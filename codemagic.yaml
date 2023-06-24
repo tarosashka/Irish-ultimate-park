@@ -10,7 +10,7 @@ workflows:
         distribution_type: app_store
         bundle_identifier: com.app.irishpark
       groups:
-        - unity_credentials
+        - unity
       vars:
         UNITY_VERSION: 2021.3.15f1
         UNITY_VERSION_CHANGESET: e8e88683f834
